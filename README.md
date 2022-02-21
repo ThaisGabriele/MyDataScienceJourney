@@ -5,3 +5,4 @@
   - :star: Effective pandas by Matt Harrison
   - :star: Data Science for Business by Foster Provost and Tom Fawcett
   - :star: Python Data Science Handbook by Jake VanderPlas
+  - :star: Como Mentir com Estatística por Darrell Huff
