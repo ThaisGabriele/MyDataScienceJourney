@@ -15,4 +15,4 @@
   
   - :star: [Kaggle] Learn intro to SQL Tutorials https://t.co/HaQ1orKWn2
   - :star: [For practicing] https://sqlzoo.net/wiki/
-  
+  - :star: Learning SQL by Alan Beaulieu
