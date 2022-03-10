@@ -1,5 +1,8 @@
 # MyDataScienceJourney
 
+📚 Reading (March) : Feature Engineering for Machine Learning principles and techniques for data scientists 
+
+
 ## Python - Pandas
   *List of books that guided my learning and knowledge*
   - :star: Effective pandas by Matt Harrison
