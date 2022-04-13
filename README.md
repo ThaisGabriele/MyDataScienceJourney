@@ -1,7 +1,7 @@
 # MyDataScienceJourney
 
 📚 Reading (March) : Feature Engineering for Machine Learning principles and techniques for data scientists 
-
+📚 Reading (April) : Learning SQL 
 
 ## Python - Pandas
   *List of books that guided my learning and knowledge*
