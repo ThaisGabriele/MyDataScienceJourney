@@ -12,6 +12,6 @@
 
 *  To learn more about:
   
-    * t-distributed stochastic neighbor embedding
+    * t-distributed stochastic neighbor embedding:https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
    
   
