@@ -16,5 +16,6 @@
    
 * Repos
  
-  *  https://github.com/ml-tooling/best-of-ml-python
+  * https://github.com/ml-tooling/best-of-ml-python
   
+  * Fuzzy String Matching in Python: https://github.com/seatgeek/thefuzz
